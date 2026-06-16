@@ -13,10 +13,10 @@ I build production backend systems with NestJS, FastAPI, PostgreSQL, Redis, and 
 
 ## Selected repositories
 
-- [mcp_workflow](https://github.com/EthanKlocked/mcp_workflow) - MCP-based AI agent workflow system with LangChain orchestration and tool-server integration.
-- [ai_box](https://github.com/EthanKlocked/ai_box) - NestJS AI service for GPT-powered text analysis, emotion extraction, keywords, and diary metadata.
-- [event-reward-project](https://github.com/EthanKlocked/event-reward-project) - NestJS microservice event/reward platform with gateway, auth, MongoDB, Swagger, and automated reward logic.
+- [ai-commerce-ops-agent](https://github.com/EthanKlocked/ai-commerce-ops-agent) - FastAPI + LangGraph backend demo for AI-native commerce ops, MCP tool boundaries, runbooks, graph context, and SSE events.
+- [tossinvest-openapi-mcp](https://github.com/EthanKlocked/tossinvest-openapi-mcp) - Safe-by-default MCP server for Toss Securities Open API with read-only market/account tools and gated order operations.
 - [chat_server_lite](https://github.com/EthanKlocked/chat_server_lite) - Realtime chat backend with NestJS and Rust implementations, WebSocket gateways, Redis, and Docker deployment.
+- [event-reward-project](https://github.com/EthanKlocked/event-reward-project) - NestJS microservice event/reward platform with gateway, auth, MongoDB, Swagger, and automated reward logic.
 - [intellideck](https://github.com/EthanKlocked/intellideck) - Next.js generative UI experiment using AI SDK streamUI to generate interactive React components.
 - [soap_server](https://github.com/EthanKlocked/soap_server) - NestJS API server for a mobile diary/logging service with email auth, database integration, and service-ready structure.
 
